@@ -96,7 +96,8 @@ print("The highest rank cosine score is:", round(highest_rank_score, 4))
 ```
 
 ### Output:
-<img width="680" height="705" alt="image" src="https://github.com/user-attachments/assets/fff5daba-595e-4c99-92af-19fa47de1184" />
+<img width="1002" height="759" alt="image" src="https://github.com/user-attachments/assets/be0a0665-9dea-4d52-9fb5-02ab28326110" />
+<img width="1034" height="708" alt="image" src="https://github.com/user-attachments/assets/4282b2f4-ce7c-4076-8daa-515437efd473" />
 
 
 ### Result:
